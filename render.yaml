@@ -17,11 +17,11 @@ envVars:
   - key: N8N_BASIC_AUTH_PASSWORD
     value: ""
   - key: N8N_HOST
-    value: n8n.onrender.com
+    value: ""
   - key: N8N_PORT
     value: "5678"
   - key: WEBHOOK_TUNNEL_URL
-    value: https://n8n.onrender.com
+    value: ""
   - key: GENERIC_TIMEZONE
     value: America/Los_Angeles
   - key: N8N_CUSTOM_EXTENSIONS
