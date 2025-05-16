@@ -19,9 +19,7 @@ envVars:
   - key: N8N_HOST
     value: ""
   - key: N8N_PORT
-    value: "443"
-  - key: N8N_PROTOCOL
-    value: "https"
+    value: ""
   - key: WEBHOOK_TUNNEL_URL
     value: ""
   - key: GENERIC_TIMEZONE
